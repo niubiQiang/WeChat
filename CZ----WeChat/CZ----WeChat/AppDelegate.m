@@ -18,8 +18,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
-    
-    NSLog(@"我再进行bug调试");
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
